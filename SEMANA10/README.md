@@ -3,7 +3,7 @@
 Atividades de Implementação e Teste de Software com Java e JUnit 5. A pasta reúne os quatro exercícios da SEMANA10, cada um com seu projeto Maven.
 
 | Projeto | O que foi implementado |
-|: |: |
+| --- | --- |
 | [bubblesort-tdd](bubblesort-tdd) | Ordenação crescente de inteiros com Bubble Sort |
 | [carrinho-compras-tdd](carrinho-compras-tdd) | Adição, remoção, total da compra e desconto de 10% a partir de R$ 500,00 |
 | [conta-bancaria-tdd-maven](conta-bancaria-tdd-maven) | Depósitos, saques e controle do saldo |
